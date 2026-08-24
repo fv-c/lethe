@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: LETHE
+version: 1.0.0
+date-released: 2026-08-24
+authors:
+  - family-names: Vitucci
+    given-names: Francesco
+  - family-names: Di Furia
+    given-names: Anthony
+  - family-names: Scagliola
+    given-names: Francesco
+doi: 10.5281/zenodo.21900146
+url: https://github.com/fv-c/lethe
+license: GPL-3.0-only
